@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif" width="500px" height="300"/>
 </div>
-<h1 align="center">Hi 👋, I'm Hrishikesh Jadhav</h1>
+<p align="center">Hi 👋, I'm Hrishikesh Jadhav</p>
 <h3 align="center">A full-stack developer based in the Bharat.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tezado&label=Profile%20views&color=0e75b6&style=flat" alt="tezado" /> </p><br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif"/>
