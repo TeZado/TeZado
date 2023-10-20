@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React, NodeJs, MongoDb, Express**
 
-- ⚡ Fun fact : One thing I cannot live without is Anime.](One thing I cannot live without is Anime.
+- ⚡ Fun fact : One thing I cannot live without is Anime.
 
 - 💬 Ask me about **Javascript**
 
