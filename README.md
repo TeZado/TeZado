@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Anime Streaming App 🐉**
 
-- 🌱 I’m currently learning **React, NodeJs, MongoDb, Express**
+- 🌱 I’m currently learning **React, NodeJs, Express, MongoDb**
 
 - ⚡ Fun fact : One thing I cannot live without is Anime.
 
